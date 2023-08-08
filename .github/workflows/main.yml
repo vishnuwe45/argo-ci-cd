@@ -22,4 +22,4 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/user-name/we45-app:latest
+            ghcr.io/vishnuwe45/we45-app:latest
